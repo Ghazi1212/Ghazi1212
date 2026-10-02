@@ -30,6 +30,6 @@ M.S. in Computer Science, California State University, Northridge (December 2024
 
 ## Get in Touch
 
-- LinkedIn: [your-linkedin-url]
-- Portfolio: [your-portfolio-url]
-- Email: [your-email]
+- LinkedIn: https://www.linkedin.com/in/ghazi-rahman-shaik/
+- Portfolio: https://ghazi1212.github.io/dev-portfolio/
+- Email: ghazishaik813@gmail.com
