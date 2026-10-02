@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Ghazi Rahman Shaik
 
-<!--
-**Ghazi1212/Ghazi1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a computer science professional focused on building scalable data systems, reliable software, and AI-powered applications.
 
-Here are some ideas to get you started:
+M.S. in Computer Science, California State University, Northridge (December 2024).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Data Engineering | Distributed Systems | AI/ML Applications**
+
+## What I Work With
+
+- **Languages:** Python, Java, Go, SQL
+- **Data and streaming:** Spark, Kafka, PostgreSQL
+- **Cloud:** AWS, Azure
+- **AI/ML:** scikit-learn, LLM applications, retrieval-augmented generation
+
+## Featured Projects
+
+| Project | What it solves |
+|---|---|
+| [data-quality-lineage-platform](https://github.com/Ghazi1212/data-quality-lineage-platform) | Detects bad data and shows which upstream source caused it and which reports it affects |
+| [realtime-data-aggregation-engine](https://github.com/Ghazi1212/realtime-data-aggregation-engine) | Aggregates streaming events from multiple sources without losing or double-counting data |
+| [llm-pipeline-intelligence-assistant](https://github.com/Ghazi1212/llm-pipeline-intelligence-assistant) | Diagnoses failed pipeline runs from logs and suggests evidence-backed fixes |
+| [Heart-Disease-Prediction](https://github.com/Ghazi1212/Heart-Disease-Prediction) | Machine learning model for heart disease risk prediction |
+
+## Currently Exploring
+
+- Reliable stream processing and exactly-once semantics
+- Evaluating LLM systems with measurable benchmarks
+- Data observability and lineage
+
+## Get in Touch
+
+- LinkedIn: [your-linkedin-url]
+- Portfolio: [your-portfolio-url]
+- Email: [your-email]
